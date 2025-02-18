@@ -1,0 +1,8 @@
+How to open Wordpress Website in Local:
+
+If you don't have Local, install it through next steps (If you downloaded it already, then skip this step.):
+- Copy the link and open it: https://localwp.com/
+- Click: "DOWNLOAD FOR FREE".
+
+After downloading it, open Local-> On top left you will see hamburger icon (3 slashes)-> Click on it and it has "Import site"-> Choose the zipped file you want to import->Rename it then Continue->Preferred then Import site
+
