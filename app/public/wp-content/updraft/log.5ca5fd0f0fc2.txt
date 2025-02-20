@@ -1,0 +1,347 @@
+0000.001 (0) Opened log file at time: Wed, 05 Feb 2025 12:58:33 +0000 on http://localhost:10058
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.11 WP: 6.7.1 PHP: 8.1.29 (cgi-fcgi, Windows NT DESKTOP-43EM40V 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 70.5M | 72M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 146400.1 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: weekly)
+0000.018 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.027 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1737451756, seconds_ago=1308557)
+0000.036 (0) Set semaphore last lock (f) time to 2025-02-05 12:58:33
+0000.039 (0) Semaphore lock (f) complete
+0000.050 (0) Backup run: resumption=0, nonce=5ca5fd0f0fc2, file_nonce=5ca5fd0f0fc2 begun at=1738760313 (0s ago), job type=backup
+0000.057 (0) Scheduling a resumption (1) after 300 seconds (1738760613) in case this run gets aborted
+0000.082 (0) Checking if we have a zip executable available
+0000.088 (0) Creation of backups of directories: beginning
+0000.099 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0016.829 (0) Total entities for the zip file: 2920 directories, 16816 files (0 skipped as non-modified), 197.2 MB
+0016.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0017.283 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 100 files added (on-disk size: 600.6 KB)
+0017.373 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 200 files added (on-disk size: 600.6 KB)
+0017.466 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 300 files added (on-disk size: 600.6 KB)
+0017.560 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 400 files added (on-disk size: 600.6 KB)
+0017.651 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 500 files added (on-disk size: 600.6 KB)
+0017.741 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 600 files added (on-disk size: 600.6 KB)
+0017.841 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 700 files added (on-disk size: 600.6 KB)
+0017.941 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 800 files added (on-disk size: 600.6 KB)
+0018.035 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 900 files added (on-disk size: 600.6 KB)
+0018.155 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1000 files added (on-disk size: 600.6 KB)
+0018.160 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.1 MB, 16816 files batched, 1001 (1002) added so far); re-opening (prior size: 600.6 KB)
+0019.920 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1100 files added (on-disk size: 4109.7 KB)
+0020.015 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1200 files added (on-disk size: 4109.7 KB)
+0020.124 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1300 files added (on-disk size: 4109.7 KB)
+0020.222 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1400 files added (on-disk size: 4109.7 KB)
+0020.317 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1500 files added (on-disk size: 4109.7 KB)
+0020.418 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1600 files added (on-disk size: 4109.7 KB)
+0020.516 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1700 files added (on-disk size: 4109.7 KB)
+0020.613 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1800 files added (on-disk size: 4109.7 KB)
+0020.713 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 1900 files added (on-disk size: 4109.7 KB)
+0020.808 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2000 files added (on-disk size: 4109.7 KB)
+0020.814 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.8 MB, 16816 files batched, 1001 (2003) added so far); re-opening (prior size: 4109.7 KB)
+0022.450 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2100 files added (on-disk size: 6619.4 KB)
+0022.558 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2200 files added (on-disk size: 6619.4 KB)
+0022.651 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2300 files added (on-disk size: 6619.4 KB)
+0022.752 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2400 files added (on-disk size: 6619.4 KB)
+0022.851 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2500 files added (on-disk size: 6619.4 KB)
+0022.958 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2600 files added (on-disk size: 6619.4 KB)
+0023.093 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2700 files added (on-disk size: 6619.4 KB)
+0023.248 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2800 files added (on-disk size: 6619.4 KB)
+0023.402 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 2900 files added (on-disk size: 6619.4 KB)
+0023.530 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3000 files added (on-disk size: 6619.4 KB)
+0023.575 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.3 MB, 16816 files batched, 1001 (3004) added so far); re-opening (prior size: 6619.4 KB)
+0025.888 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3100 files added (on-disk size: 12594.8 KB)
+0025.979 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3200 files added (on-disk size: 12594.8 KB)
+0026.069 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3300 files added (on-disk size: 12594.8 KB)
+0026.170 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3400 files added (on-disk size: 12594.8 KB)
+0026.264 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3500 files added (on-disk size: 12594.8 KB)
+0026.356 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3600 files added (on-disk size: 12594.8 KB)
+0026.451 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3700 files added (on-disk size: 12594.8 KB)
+0026.545 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3800 files added (on-disk size: 12594.8 KB)
+0026.662 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 3900 files added (on-disk size: 12594.8 KB)
+0026.785 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4000 files added (on-disk size: 12594.8 KB)
+0026.795 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.6 MB, 16816 files batched, 1001 (4005) added so far); re-opening (prior size: 12594.8 KB)
+0028.470 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4100 files added (on-disk size: 15323.7 KB)
+0028.599 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4200 files added (on-disk size: 15323.7 KB)
+0028.708 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4300 files added (on-disk size: 15323.7 KB)
+0028.832 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4400 files added (on-disk size: 15323.7 KB)
+0028.952 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4500 files added (on-disk size: 15323.7 KB)
+0029.069 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4600 files added (on-disk size: 15323.7 KB)
+0029.194 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4700 files added (on-disk size: 15323.7 KB)
+0029.313 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4800 files added (on-disk size: 15323.7 KB)
+0029.436 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 4900 files added (on-disk size: 15323.7 KB)
+0029.548 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5000 files added (on-disk size: 15323.7 KB)
+0029.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.6 MB, 16816 files batched, 1001 (5006) added so far); re-opening (prior size: 15323.7 KB)
+0031.403 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5100 files added (on-disk size: 16635.3 KB)
+0031.532 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5200 files added (on-disk size: 16635.3 KB)
+0031.661 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5300 files added (on-disk size: 16635.3 KB)
+0031.782 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5400 files added (on-disk size: 16635.3 KB)
+0031.900 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5500 files added (on-disk size: 16635.3 KB)
+0032.024 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5600 files added (on-disk size: 16635.3 KB)
+0032.407 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5700 files added (on-disk size: 16635.3 KB)
+0032.804 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5800 files added (on-disk size: 16635.3 KB)
+0033.037 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 5900 files added (on-disk size: 16635.3 KB)
+0033.248 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6000 files added (on-disk size: 16635.3 KB)
+0033.262 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6 MB, 16816 files batched, 1001 (6007) added so far); re-opening (prior size: 16635.3 KB)
+0035.013 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6100 files added (on-disk size: 18273.5 KB)
+0035.115 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6200 files added (on-disk size: 18273.5 KB)
+0035.211 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6300 files added (on-disk size: 18273.5 KB)
+0035.311 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6400 files added (on-disk size: 18273.5 KB)
+0035.408 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6500 files added (on-disk size: 18273.5 KB)
+0035.510 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6600 files added (on-disk size: 18273.5 KB)
+0035.604 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6700 files added (on-disk size: 18273.5 KB)
+0035.915 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6800 files added (on-disk size: 18273.5 KB)
+0036.032 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 6900 files added (on-disk size: 18273.5 KB)
+0036.125 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7000 files added (on-disk size: 18273.5 KB)
+0036.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.5 MB, 16816 files batched, 1001 (7008) added so far); re-opening (prior size: 18273.5 KB)
+0038.081 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7100 files added (on-disk size: 19991.4 KB)
+0038.184 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7200 files added (on-disk size: 19991.4 KB)
+0038.277 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7300 files added (on-disk size: 19991.4 KB)
+0038.369 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7400 files added (on-disk size: 19991.4 KB)
+0038.468 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7500 files added (on-disk size: 19991.4 KB)
+0038.564 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7600 files added (on-disk size: 19991.4 KB)
+0038.657 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7700 files added (on-disk size: 19991.4 KB)
+0038.746 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7800 files added (on-disk size: 19991.4 KB)
+0038.838 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 7900 files added (on-disk size: 19991.4 KB)
+0038.930 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8000 files added (on-disk size: 19991.4 KB)
+0038.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.4 MB, 16816 files batched, 1001 (8009) added so far); re-opening (prior size: 19991.4 KB)
+0041.087 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8100 files added (on-disk size: 22094.3 KB)
+0041.184 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8200 files added (on-disk size: 22094.3 KB)
+0041.276 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8300 files added (on-disk size: 22094.3 KB)
+0041.382 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8400 files added (on-disk size: 22094.3 KB)
+0041.479 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8500 files added (on-disk size: 22094.3 KB)
+0041.574 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8600 files added (on-disk size: 22094.3 KB)
+0041.667 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8700 files added (on-disk size: 22094.3 KB)
+0041.766 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8800 files added (on-disk size: 22094.3 KB)
+0041.864 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 8900 files added (on-disk size: 22094.3 KB)
+0041.964 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9000 files added (on-disk size: 22094.3 KB)
+0041.978 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.8 MB, 16816 files batched, 1001 (9010) added so far); re-opening (prior size: 22094.3 KB)
+0044.407 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9100 files added (on-disk size: 40687.3 KB)
+0044.502 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9200 files added (on-disk size: 40687.3 KB)
+0044.595 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9300 files added (on-disk size: 40687.3 KB)
+0044.693 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9400 files added (on-disk size: 40687.3 KB)
+0044.786 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9500 files added (on-disk size: 40687.3 KB)
+0044.879 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9600 files added (on-disk size: 40687.3 KB)
+0044.971 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9700 files added (on-disk size: 40687.3 KB)
+0045.061 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9800 files added (on-disk size: 40687.3 KB)
+0045.155 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 9900 files added (on-disk size: 40687.3 KB)
+0045.254 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10000 files added (on-disk size: 40687.3 KB)
+0045.267 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.4 MB, 16816 files batched, 1001 (10011) added so far); re-opening (prior size: 40687.3 KB)
+0047.880 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10100 files added (on-disk size: 43434.4 KB)
+0047.977 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10200 files added (on-disk size: 43434.4 KB)
+0048.071 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10300 files added (on-disk size: 43434.4 KB)
+0048.163 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10400 files added (on-disk size: 43434.4 KB)
+0048.254 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10500 files added (on-disk size: 43434.4 KB)
+0048.346 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10600 files added (on-disk size: 43434.4 KB)
+0048.433 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10700 files added (on-disk size: 43434.4 KB)
+0048.525 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10800 files added (on-disk size: 43434.4 KB)
+0048.619 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 10900 files added (on-disk size: 43434.4 KB)
+0048.715 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11000 files added (on-disk size: 43434.4 KB)
+0048.729 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.8 MB, 16816 files batched, 1001 (11012) added so far); re-opening (prior size: 43434.4 KB)
+0051.915 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11100 files added (on-disk size: 51005.4 KB)
+0052.031 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11200 files added (on-disk size: 51005.4 KB)
+0052.133 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11300 files added (on-disk size: 51005.4 KB)
+0052.237 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11400 files added (on-disk size: 51005.4 KB)
+0052.345 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11500 files added (on-disk size: 51005.4 KB)
+0052.442 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11600 files added (on-disk size: 51005.4 KB)
+0052.561 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11700 files added (on-disk size: 51005.4 KB)
+0052.711 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11800 files added (on-disk size: 51005.4 KB)
+0052.859 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 11900 files added (on-disk size: 51005.4 KB)
+0053.029 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12000 files added (on-disk size: 51005.4 KB)
+0053.048 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.2 MB, 16816 files batched, 1001 (12013) added so far); re-opening (prior size: 51005.4 KB)
+0057.449 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12100 files added (on-disk size: 58086.8 KB)
+0057.591 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12200 files added (on-disk size: 58086.8 KB)
+0057.739 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12300 files added (on-disk size: 58086.8 KB)
+0057.867 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12400 files added (on-disk size: 58086.8 KB)
+0057.995 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12500 files added (on-disk size: 58086.8 KB)
+0058.131 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12600 files added (on-disk size: 58086.8 KB)
+0058.297 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12700 files added (on-disk size: 58086.8 KB)
+0058.464 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12800 files added (on-disk size: 58086.8 KB)
+0058.622 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 12900 files added (on-disk size: 58086.8 KB)
+0058.758 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13000 files added (on-disk size: 58086.8 KB)
+0058.778 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.4 MB, 16816 files batched, 1001 (13014) added so far); re-opening (prior size: 58086.8 KB)
+0062.054 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13100 files added (on-disk size: 61202.1 KB)
+0062.185 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13200 files added (on-disk size: 61202.1 KB)
+0062.435 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13300 files added (on-disk size: 61202.1 KB)
+0062.559 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13400 files added (on-disk size: 61202.1 KB)
+0062.683 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13500 files added (on-disk size: 61202.1 KB)
+0062.809 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13600 files added (on-disk size: 61202.1 KB)
+0062.947 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13700 files added (on-disk size: 61202.1 KB)
+0063.068 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13800 files added (on-disk size: 61202.1 KB)
+0063.184 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 13900 files added (on-disk size: 61202.1 KB)
+0063.308 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14000 files added (on-disk size: 61202.1 KB)
+0063.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12 MB, 16816 files batched, 1001 (14015) added so far); re-opening (prior size: 61202.1 KB)
+0066.340 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14100 files added (on-disk size: 68064.2 KB)
+0066.568 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14200 files added (on-disk size: 68064.2 KB)
+0066.714 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14300 files added (on-disk size: 68064.2 KB)
+0066.880 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14400 files added (on-disk size: 68064.2 KB)
+0066.994 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14500 files added (on-disk size: 68064.2 KB)
+0067.102 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14600 files added (on-disk size: 68064.2 KB)
+0067.227 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14700 files added (on-disk size: 68064.2 KB)
+0067.351 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14800 files added (on-disk size: 68064.2 KB)
+0067.471 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 14900 files added (on-disk size: 68064.2 KB)
+0067.594 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15000 files added (on-disk size: 68064.2 KB)
+0067.613 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.3 MB, 16816 files batched, 1001 (15016) added so far); re-opening (prior size: 68064.2 KB)
+0070.946 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15100 files added (on-disk size: 71735.5 KB)
+0071.088 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15200 files added (on-disk size: 71735.5 KB)
+0071.213 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15300 files added (on-disk size: 71735.5 KB)
+0071.337 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15400 files added (on-disk size: 71735.5 KB)
+0071.457 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15500 files added (on-disk size: 71735.5 KB)
+0071.576 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15600 files added (on-disk size: 71735.5 KB)
+0071.700 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15700 files added (on-disk size: 71735.5 KB)
+0071.829 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15800 files added (on-disk size: 71735.5 KB)
+0071.949 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 15900 files added (on-disk size: 71735.5 KB)
+0072.063 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16000 files added (on-disk size: 71735.5 KB)
+0072.086 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.6 MB, 16816 files batched, 1001 (16017) added so far); re-opening (prior size: 71735.5 KB)
+0075.242 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16100 files added (on-disk size: 73458.1 KB)
+0075.366 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16200 files added (on-disk size: 73458.1 KB)
+0075.503 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16300 files added (on-disk size: 73458.1 KB)
+0075.656 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16400 files added (on-disk size: 73458.1 KB)
+0075.788 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16500 files added (on-disk size: 73458.1 KB)
+0075.934 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16600 files added (on-disk size: 73458.1 KB)
+0076.075 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16700 files added (on-disk size: 73458.1 KB)
+0076.214 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.tmp: 16800 files added (on-disk size: 73458.1 KB)
+0079.395 (0) Creating zip file manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.list-temp.tmp)
+0079.603 (0) Successfully created zip file manifest (size: 1725004)
+0080.398 (0) Created plugins zip (0) - 74544.3 KB in 80.3 s (928.5 KB/s) (sha1: 1818659527e00ce1d8da281e181660aad116d61e, sha256: f1388f2e44aac27d5632bd8656598e7769503c962fab957a40919256a04656ec)
+0080.422 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0080.426 (0) No remote despatch: user chose no remote backup service
+0080.429 (0) Recording as successfully uploaded: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip
+0080.433 (0) Deleting zip manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip.list.tmp)
+0080.439 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0080.443 (0) Number of backup sets in history: 2; groups (db): 1
+0080.445 (0) Examining (for databases) backup set with group_id=0, nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0080.448 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0080.451 (0) Examining (for databases) backup set with group_id=0, nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0080.451 (0) Number of backup sets in history: 2; groups (files): 1
+0080.453 (0) Examining (for files) backup set with nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0080.453 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0080.455 (0) Examining (for files) backup set with nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0080.456 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0080.458 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0080.472 (0) Beginning creation of dump of themes (split every: 400 MB)
+0081.614 (0) Total entities for the zip file: 270 directories, 1806 files (0 skipped as non-modified), 22.1 MB
+0081.731 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0081.844 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0081.952 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0082.063 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0082.179 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0082.285 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0082.392 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0082.508 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0082.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.8 MB, 850 (850) files added so far); re-opening (prior size: 0 KB)
+0083.446 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 900 files added (on-disk size: 2695.2 KB)
+0083.543 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1000 files added (on-disk size: 2695.2 KB)
+0083.652 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1100 files added (on-disk size: 2695.2 KB)
+0083.765 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1200 files added (on-disk size: 2695.2 KB)
+0083.874 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1300 files added (on-disk size: 2695.2 KB)
+0083.975 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1400 files added (on-disk size: 2695.2 KB)
+0084.124 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1500 files added (on-disk size: 2695.2 KB)
+0084.227 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1600 files added (on-disk size: 2695.2 KB)
+0084.326 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1700 files added (on-disk size: 2695.2 KB)
+0084.439 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.tmp: 1800 files added (on-disk size: 2695.2 KB)
+0085.728 (0) Creating zip file manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.list-temp.tmp)
+0085.754 (0) Successfully created zip file manifest (size: 136433)
+0085.935 (0) Created themes zip (0) - 15969 KB in 5.5 s (2928.5 KB/s) (sha1: 6622cbc323bfd4c2ddd79f8551e77d92a044321b, sha256: 0b5bac43958843fcc71f218a34c04a06df79cfecb20a2ee717638b510674343e)
+0085.948 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0085.950 (0) No remote despatch: user chose no remote backup service
+0085.952 (0) Recording as successfully uploaded: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip
+0085.959 (0) Deleting zip manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip.list.tmp)
+0085.965 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0085.968 (0) Number of backup sets in history: 2; groups (db): 1
+0085.970 (0) Examining (for databases) backup set with group_id=0, nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0085.973 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0085.976 (0) Examining (for databases) backup set with group_id=0, nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0085.976 (0) Number of backup sets in history: 2; groups (files): 1
+0085.979 (0) Examining (for files) backup set with nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0085.980 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0085.982 (0) Examining (for files) backup set with nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0085.982 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0085.984 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0085.999 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0086.002 (0) Looking for candidates to backup in: C:\Users\PC\Local Sites\dometechno\app\public/wp-content/uploads
+0086.004 (0) finding files: 2024: adding to list (1)
+0086.007 (0) finding files: 2025: adding to list (2)
+0086.010 (0) finding files: blocksy: adding to list (3)
+0086.012 (0) finding files: custom-css-js: adding to list (4)
+0086.014 (0) finding files: fonts: adding to list (5)
+0086.016 (0) finding files: forminator: adding to list (6)
+0086.019 (0) finding files: wc-logs: adding to list (7)
+0086.021 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (8)
+0086.023 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+0086.028 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0086.030 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (11)
+0086.032 (0) finding files: woocommerce-placeholder-500x500.png: adding to list (12)
+0086.034 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (13)
+0086.036 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (14)
+0086.038 (0) finding files: woocommerce-placeholder.png: adding to list (15)
+0086.042 (0) finding files: woocommerce_uploads: adding to list (16)
+0086.045 (0) finding files: wpforms: adding to list (17)
+0086.048 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0086.307 (0) Total entities for the zip file: 16 directories, 405 files (0 skipped as non-modified), 23.2 MB
+0086.416 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0086.516 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0086.619 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0086.708 (0) Zip: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0087.661 (0) Creating zip file manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.list-temp.tmp)
+0087.671 (0) Successfully created zip file manifest (size: 22786)
+0087.840 (0) Created uploads zip (0) - 14162 KB in 1.8 s (7949.1 KB/s) (sha1: 5bdaae2e44df168a9ea6677ff067f5e4f9d66dc3, sha256: d897a6a1cd5cffda2e69d81078412700594b8703b88d0e282ea8d2a3ff02d698)
+0087.852 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0087.855 (0) No remote despatch: user chose no remote backup service
+0087.858 (0) Recording as successfully uploaded: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip
+0087.862 (0) Deleting zip manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip.list.tmp)
+0087.867 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0087.870 (0) Number of backup sets in history: 2; groups (db): 1
+0087.872 (0) Examining (for databases) backup set with group_id=0, nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0087.872 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0087.875 (0) Examining (for databases) backup set with group_id=0, nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0087.875 (0) Number of backup sets in history: 2; groups (files): 1
+0087.878 (0) Examining (for files) backup set with nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0087.878 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0087.880 (0) Examining (for files) backup set with nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0087.880 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0087.882 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0087.897 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0087.900 (0) Does not exist: C:\Users\PC\Local Sites\dometechno\app\public/wp-content/mu-plugins
+0087.902 (0) There are no mu-plugins to backup. Will not raise an error.
+0087.905 (0) mu-plugins: create_zip returned an error
+0087.910 (0) Beginning backup of other directories found in the content directory (index: 0)
+0087.913 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0087.915 (0) Looking for candidates to backup in: C:\Users\PC\Local Sites\dometechno\app\public/wp-content
+0087.917 (0) finding files: index.php: adding to list (1)
+0087.919 (0) finding files: jetpack-waf: adding to list (2)
+0087.921 (0) finding files: plugins: skipping: this is the plugins directory
+0087.923 (0) finding files: themes: skipping: this is the themes directory
+0087.925 (0) finding files: updraft: skipping: this is the updraft directory
+0087.927 (0) finding files: upgrade: skipping: excluded by options
+0087.929 (0) finding files: upgrade-temp-backup: adding to list (3)
+0087.931 (0) finding files: uploads: skipping: this is the uploads directory
+0087.947 (0) Total entities for the zip file: 3 directories, 6 files (0 skipped as non-modified), 0 MB
+0087.966 (0) Creating zip file manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-others.zip.list-temp.tmp)
+0087.970 (0) Successfully created zip file manifest (size: 240)
+0087.984 (0) Created others zip (0) - 1.6 KB in 0 s (34.8 KB/s) (sha1: f20ea85a839365d55379c5df5e4de44249ba5df5, sha256: 155ce052a95c6fb5274bf4f9c0b6d357f8b7da6e60acbd73ed0ee95b70c5ba5e)
+0087.993 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0087.995 (0) No remote despatch: user chose no remote backup service
+0087.997 (0) Recording as successfully uploaded: backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-others.zip
+0088.002 (0) Deleting zip manifest (backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-others.zip.list.tmp)
+0088.007 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0088.010 (0) Number of backup sets in history: 2; groups (db): 1
+0088.012 (0) Examining (for databases) backup set with group_id=0, nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0088.013 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0088.015 (0) Examining (for databases) backup set with group_id=0, nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0088.015 (0) Number of backup sets in history: 2; groups (files): 1
+0088.017 (0) Examining (for files) backup set with nonce=91bb00dca7f4, datestamp=1738760317 (Feb 05 2025 12:58:37)
+0088.017 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0088.018 (0) Examining (for files) backup set with nonce=bf0c054ea8ac, datestamp=1737451756 (Jan 21 2025 09:29:16)
+0088.019 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0088.020 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0088.039 (0) Saving backup status to database (elements: 8)
+0088.045 (0) No database backup (wp) - not part of this run
+0088.051 (0) backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-plugins.zip: plugins: This file has already been successfully processed
+0088.053 (0) backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-themes.zip: themes: This file has already been successfully processed
+0088.055 (0) backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-uploads.zip: uploads: This file has already been successfully processed
+0088.058 (0) backup_2025-02-05-1258_TechDome_5ca5fd0f0fc2-others.zip: others: This file has already been successfully processed
+0088.060 (0) Saving backup history. Total backup size: 102.2 MB
+0088.065 (0) Resume backup (5ca5fd0f0fc2, 0): finish run
+0088.069 (0) There were no more files that needed uploading
+0088.073 (0) Decremented the semaphore (f) by 1
+0088.078 (0) Semaphore (f) unlocked
+0088.080 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0088.087 (0) No email will be sent - this backup set was empty.
+0088.089 (0) The backup succeeded and is now complete
