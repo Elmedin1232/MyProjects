@@ -136,8 +136,8 @@ form.addEventListener("submit", function (e) {
     return;
   }
 
-  const name = document.querySelector(".name").value;
-  const surname = document.querySelector(".surname").value;
+  const name = document.querySelector(".name").value.trim();
+  const surname = document.querySelector(".surname").value.trim();
   const position = document.querySelector(".position").value;
 
   if (name && surname && position) {
